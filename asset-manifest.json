@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/indebt/static/css/main.e6c13ad2.css",
-    "main.js": "/indebt/static/js/main.f037d984.js",
+    "main.js": "/indebt/static/js/main.34c92b09.js",
     "index.html": "/indebt/index.html",
     "main.e6c13ad2.css.map": "/indebt/static/css/main.e6c13ad2.css.map",
-    "main.f037d984.js.map": "/indebt/static/js/main.f037d984.js.map"
+    "main.34c92b09.js.map": "/indebt/static/js/main.34c92b09.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f037d984.js"
+    "static/js/main.34c92b09.js"
   ]
 }
